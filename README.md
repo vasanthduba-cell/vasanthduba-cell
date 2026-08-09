@@ -1,7 +1,7 @@
 ## Hi, I'm Vasanth 👋
 
 # 💫 About Me:
-<br>📚 Student at BPSSC<br/><br>💻 I Code websites as a hobby<br/><br>📱 I've Made some React Websites<br/><br><br>Here is a Link to one of them : https://ai-study-buddy-assistant-jb3vgjx36-vasanthduba-cell1.vercel.app/.     <br>Note: You may have to log in to Vercel to see it ☝️, (it's worth it though)<br>
+<br>📚 Student at BPSSC<br/><br>💻 I Code websites as a hobby<br/><br>📱 I've Made some React Websites<br/><br><br>Here is a Link to one of them : https://ai-study-buddy-assistant-gcmmz7veo-vasanthduba-cell1.vercel.app/     <br>Note: You may have to log in to Vercel to see it ☝️, (it's worth it though)<br>
 
 
 ## 🌐 Socials:
